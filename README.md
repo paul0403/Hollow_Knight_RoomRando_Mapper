@@ -52,9 +52,4 @@ To simulate the experience even further, you can also consider not using the map
 
 # Example
 There's a sample `data.txt` in the repo, and a sample drawn `map.pdf`.
-Enjoy.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/paul0403/Hollow_Knight_RoomRando_Mapper/master/map.pdf#gh-light-mode-only" width="700px">
-  <img src=".map" width="700px" onerror="this.style.display='none'" alt=""/>
-</p>
+[Enjoy.](./map.pdf)
