@@ -53,3 +53,5 @@ To simulate the experience even further, you can also consider not using the map
 # Example
 There's a sample `data.txt` in the repo, and a sample drawn `map.pdf`.
 [Enjoy.](./map.pdf)
+
+The name codes for each room can be found at [this public Google drive](https://drive.google.com/drive/folders/1VwVbCjU8uPV4V3cDu_Tr1TgEs01hMSFr).
