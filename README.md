@@ -33,8 +33,10 @@ Just git clone this repo.
 C:\Users\<username>\AppData\LocalLow\Team Cherry\Hollow Knight\Randomizer 4\Recent\HelperLog.txt
 ```
 Of course the path can be different depending on a bunch of things. But there should be a GUI button you can click in the rando startup menu.
+
 2. Rename it to `data.txt` and put it in your cloned repo folder. Of course you can rename the target file in the source code too if you want to, or update the file read to take in arbitrary names. I'm too lazy to do that.
-3. Just run 
+
+3. Just run
 ```
 python draw_map.py
 ```
@@ -46,5 +48,13 @@ This is just a visualizer. Once you have the map, what you do with it is up to y
 
 To fully simulate the knight and Cornifer's experience, when you sit down on a bench in a room rando run, and the "Map Updated" icon is displaying, you can run this mapper. This way, it will feel like the "Map Updated" icon and quill animation is actually you (the player) recording new locations you visited on your map.
 
-To simulate the experience even further, you can also consider not using the mapper until you found the quill in the run. 
+To simulate the experience even further, you can also consider not using the mapper until you found the quill in the run.
 
+# Example
+There's a sample `data.txt` in the repo, and a sample drawn `map.pdf`.
+Enjoy.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/paul0403/Hollow_Knight_RoomRando_Mapper/master/map.pdf#gh-light-mode-only" width="700px">
+  <img src=".map" width="700px" onerror="this.style.display='none'" alt=""/>
+</p>
